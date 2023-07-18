@@ -1,0 +1,3 @@
+the output of Ex6 in Homework 5:
+size of union = 32
+size of structure = 40
